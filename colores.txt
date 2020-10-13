@@ -2,3 +2,4 @@
 amarillo
 azul
 rojo
+blanco
