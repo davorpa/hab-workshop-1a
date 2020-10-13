@@ -6,3 +6,4 @@ negro
 blanco
 violeta
 lila
+gris
