@@ -4,3 +4,4 @@ azul
 rojo
 negro
 blanco
+violeta
