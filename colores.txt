@@ -7,3 +7,4 @@ blanco
 violeta
 lila
 gris
+rosa
